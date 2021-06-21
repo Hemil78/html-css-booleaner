@@ -2,6 +2,8 @@ body{
     background-color: gray;
 }
 
+
+/* sottotitoli */
 .lightgray{
     color: lightgray;
 }
@@ -32,6 +34,7 @@ body{
 
 /* Corpo della pagina */
 
+
 .tim{
     width: 48%;
     height: 350px;
@@ -48,6 +51,10 @@ body{
 
 .lightblue{
     background-color: #B1E5F2;
+}
+
+.space-text{
+    width: 50%;
 }
 
 /* footer */
