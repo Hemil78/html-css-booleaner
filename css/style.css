@@ -1,0 +1,37 @@
+body{
+    background-color: gray;
+}
+/* Intestazione */
+.container{
+    width: 90%;
+    margin: auto;
+    background-color: white;
+}
+
+.header{
+    height: 100px;
+    width: 100%;
+    background-color: #4EA0FF; 
+}
+
+#booleaner{
+    color: #20A9E5;
+    
+}
+
+/* Corpo della pagina */
+
+.important{
+    background-color: yellow;
+}
+
+#head{
+    background-color: #4EA0FF;
+    color: white;
+}
+
+.lightblue{
+    background-color: #B1E5F2;
+}
+
+
